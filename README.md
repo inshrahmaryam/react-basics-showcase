@@ -1,6 +1,6 @@
 # React Practice Playground 🧪⚛️
 
-This project is a beginner-friendly React practice app built with love 💙 while learning React from CodeWithHarry's tutorials.
+This project is a beginner-friendly React practice app built while learning React from CodeWithHarry's tutorials. 💙
 
 It covers multiple key React concepts like:
 - 🔁 Conditional Rendering
