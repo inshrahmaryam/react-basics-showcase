@@ -1,4 +1,4 @@
-# react-basics-showcase – React Practice Playground 🧪⚛️
+# React Practice Playground 🧪⚛️
 
 This project is a beginner-friendly React practice app built with love 💙 while learning React from CodeWithHarry's tutorials.
 
